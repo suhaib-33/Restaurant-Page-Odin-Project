@@ -20,8 +20,6 @@ export default function loadHome() {
   image.classList.add("restaurant-image");
   content.appendChild(image);
 
-
-
   const abt = document.createElement("div");
   abt.classList.add("about-section");
   const detail = document.createElement("div");
